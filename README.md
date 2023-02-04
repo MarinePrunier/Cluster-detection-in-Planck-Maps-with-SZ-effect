@@ -1,7 +1,7 @@
 # Cluster-detection-in-Planck-Maps-with-SZ-effect
 Cluster detection in Planck Maps with thermal Sunyaev-Zeldovich effect
 
-
+Work from Marilou Medawar (ObsPM, Paris) and Marine Prunier (ObsPM, Paris).
 Under the supervision of Dr. Marian Douspis (IAS, Orsay)
 
 Abstract
