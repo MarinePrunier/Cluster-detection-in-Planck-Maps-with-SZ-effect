@@ -1,5 +1,4 @@
-# Cluster-detection-in-Planck-Maps-with-SZ-effect
-Cluster detection in Planck Maps with thermal Sunyaev-Zeldovich effect
+# Galaxy clusters detection in Planck data using thermal Sunyaev-Zeldovich emission.
 
 Work from Marilou Medawar (ObsPM, Paris) and Marine Prunier (ObsPM, Paris).
 Under the supervision of Dr. Marian Douspis (IAS, Orsay)
